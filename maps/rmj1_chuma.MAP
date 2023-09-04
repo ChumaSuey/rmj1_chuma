@@ -40201,6 +40201,27 @@
 }
 // entity 1654
 {
+"classname" "light"
+"origin" "-2424 -6168 -600"
+"wait" "0.1"
+"light" "90"
+}
+// entity 1655
+{
+"classname" "light"
+"origin" "-3080 -6072 -600"
+"wait" "0.1"
+"light" "80"
+}
+// entity 1656
+{
+"classname" "light"
+"origin" "-2904 -6504 -440"
+"wait" "0.3"
+"light" "80"
+}
+// entity 1657
+{
 "classname" "func_group"
 "_tb_type" "_tb_layer"
 "_tb_name" "Unnamed"
@@ -40280,38 +40301,38 @@
 ( -2496 -5392 -272 ) ( -2496 -5376 -272 ) ( -2496 -5376 -336 ) metal1 0 -16 0 1 1
 }
 }
-// entity 1655
+// entity 1658
 {
 "classname" "weapon_lightning"
 "origin" "-2688 -6096 -584"
 "_tb_layer" "110"
 }
-// entity 1656
+// entity 1659
 {
 "classname" "item_health"
 "origin" "-2704 -6064 -584"
 "spawnflags" "2"
 "_tb_layer" "110"
 }
-// entity 1657
+// entity 1660
 {
 "classname" "item_armorInv"
 "origin" "-2752 -6096 -584"
 "_tb_layer" "110"
 }
-// entity 1658
+// entity 1661
 {
 "classname" "item_health_vial"
 "origin" "-2768 -6048 -584"
 "_tb_layer" "110"
 }
-// entity 1659
+// entity 1662
 {
 "classname" "item_armor_shard"
 "origin" "-2728 -6048 -584"
 "_tb_layer" "110"
 }
-// entity 1660
+// entity 1663
 {
 "classname" "light"
 "origin" "-2840 -5768 -96"
@@ -40320,7 +40341,7 @@
 "_color" "255 85 0"
 "_tb_layer" "110"
 }
-// entity 1661
+// entity 1664
 {
 "classname" "light"
 "origin" "-2504 -5768 -96"
@@ -40329,7 +40350,7 @@
 "_color" "255 85 0"
 "_tb_layer" "110"
 }
-// entity 1662
+// entity 1665
 {
 "classname" "trigger_teleport"
 "target" "returnfrombloodocean"
@@ -40344,7 +40365,7 @@
 ( -2496 -5376 -192 ) ( -2496 -5392 -256 ) ( -2496 -5392 -192 ) trigger 0 0 0 1 1
 }
 }
-// entity 1663
+// entity 1666
 {
 "classname" "trigger_changemusic"
 "sounds" "28"
@@ -40359,7 +40380,7 @@
 ( -2496 -5378 -192 ) ( -2496 -5394 -256 ) ( -2496 -5394 -192 ) trigger 2 0 0 1 1
 }
 }
-// entity 1664
+// entity 1667
 {
 "classname" "info_teleport_destination"
 "origin" "-2912 -5424 -224"
@@ -40367,7 +40388,7 @@
 "targetname" "teleporttobloodocean"
 "_tb_layer" "110"
 }
-// entity 1665
+// entity 1668
 {
 "classname" "trigger_textstory"
 "message" "Find the hatch and blast through it, once you are done go through the portal."
@@ -40382,7 +40403,7 @@
 ( -2864 -5376 -136 ) ( -2864 -5456 -256 ) ( -2864 -5456 -136 ) trigger 0 0 0 1 1
 }
 }
-// entity 1666
+// entity 1669
 {
 "classname" "trigger_secret"
 "_tb_layer" "110"

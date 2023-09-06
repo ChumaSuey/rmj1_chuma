@@ -1,0 +1,95 @@
+---- qbsp / ericw-tools v0.18.1 ----
+Input file: rmj1_chuma-compile.map
+Output file: rmj1_chuma.bsp
+
+---- LoadMapFile ----
+        19897 faces
+         3267 brushes
+         1669 entities
+          221 unique texnames
+         4314 texinfo
+
+Opened WAD: C:/quake-leveldesign-starterkit-master/wads/q2wads/e1u1.wad
+Opened WAD: C:/quake-leveldesign-starterkit-master/wads/mg1.wad
+Opened WAD: C:/quake-leveldesign-starterkit-master/wads/id1.wad
+Opened WAD: C:/quake-leveldesign-starterkit-master/wads/prototype_1_3.wad
+Opened WAD: C:/quake-leveldesign-starterkit-master/wads/rm_mechanics.wad
+Opened WAD: C:/quake-leveldesign-starterkit-master/wads/glass.wad
+Opened WAD: C:/quake-leveldesign-starterkit-master/wads/str_torment.wad
+Opened WAD: C:/quake-leveldesign-starterkit-master/wads/ad.wad
+Opened WAD: C:/quake-leveldesign-starterkit-master/wads/devqtex_v2.wad
+Opened WAD: C:/quake-leveldesign-starterkit-master/wads/liquids.wad
+Opened WAD: C:/quake-leveldesign-starterkit-master/wads/organic_full.wad
+Processing hull 0...
+---- Brush_LoadEntity ----
+         2799 brushes
+           13 detail
+            1 detail wall
+           87 detail illusionary
+         3494 planes
+---- CSGFaces ----
+        17601 brushfaces
+        19793 csgfaces
+        16362 mergedfaces
+---- SolidBSP ----
+        23625 split nodes
+         9518 solid leafs
+        11714 empty leafs
+         2146 water leafs
+           26 detail leafs
+          222 detail illusionary leafs
+            0 detail fence leafs
+            0 illusionary visblocker leafs
+        44957 leaffaces
+        40601 nodefaces
+---- Portalize ----
+        14108 vis leafs
+        14108 vis clusters
+        43310 vis portals
+---- FillOutside ----
+         5823 outleafs
+---- MergeAll ----
+        12696 mergefaces
+---- SolidBSP ----
+         7915 split nodes
+         3627 solid leafs
+         3127 empty leafs
+         1068 water leafs
+           16 detail leafs
+           78 detail illusionary leafs
+            0 detail fence leafs
+            0 illusionary visblocker leafs
+        23117 leaffaces
+        17525 nodefaces
+---- Portalize ----
+         4273 vis leafs
+         3808 vis clusters
+        11497 vis portals
+---- Tjunc ----
+        17619 world edges
+        59157 edge points
+        14817 edges added by tjunctions
+            0 faces added by tjunctions
+---- MakeFaceEdges ----
+---- GrowRegions ----
+Processing hull 1...
+Processing hull 2...
+---- WriteBSPFile ----
+Wrote rmj1_chuma.bsp
+         7504 planes           150080
+        25923 vertexes         311076
+         9941 nodes            238584
+         3107 texinfo          124280
+        19602 faces            392040
+        18499 clipnodes        147992
+         6246 leafs            174888
+        25194 marksurfaces      50388
+        91881 surfedges        367524
+        46772 edges            187088
+          273 textures        4328656
+              lightdata             0
+              visdata               0
+              entdata          123254
+
+2.469 seconds elapsed
+Peak memory usage: 148759756 (141.9M)

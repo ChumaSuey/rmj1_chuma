@@ -1,6 +1,6 @@
 #rmj1_chuma map
 
-#Map instructions for Quake maps (by Chuma)
+##Map instructions for Quake maps (by Chuma)
 
 Usually i like to work with p2p and file sharing software so it can be easy to track all releases, changes, feedback and such... What do you need for running my Quake map?
 

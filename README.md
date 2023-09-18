@@ -19,7 +19,7 @@ Co Author/ Remixer : Chuma
 
 ## Installation of this map from Github
 
-I'll focus on one thing only the manual download but Github have several ways for you to remotely stay on par with the project remotely. (i won't go in detail on how to install the mod or Quake, this is a dev site of the map so yeah uwu, in any case i can point out how to)
+I'll focus on one thing only the manual download but Github have several ways for you to stay on par with the project remotely. (i won't go in detail on how to install the mod or Quake, this is a dev site of the map so yeah uwu, in any case i can point out how to)
 
 1. Click on the green button called "Code".
 2. Click on "Local" altho by default you would be there

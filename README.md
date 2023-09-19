@@ -1,4 +1,4 @@
-#rmj1_chuma map
+# rmj1_chuma map
 
 ## Map instructions for Quake maps (by Chuma)
 

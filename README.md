@@ -78,20 +78,20 @@ Co Author (music) :
 - David Szymanski (DuskDev).
 
 Special Thanks
-Yuyi
-Alunadrern
-Dominus
-Damaec
-Dany
-Nepta
-Admer
-Quake Mapping community (Slipseer and Quaddicted)
-USDQC
-Quake Champions community (special shout outs to Nyx's and Dezi's communities respectively)
-Quake speedrunning community
-New Blood Interactive
-David's Shack discord
-Bully squad
+- Yuyi
+- Alunadrern
+- Dominus
+- Damaec
+- Dany
+- Nepta
+- Admer
+- Quake Mapping community (Slipseer and Quaddicted)
+- USDQC
+- Quake Champions community (special shout outs to Nyx's and Dezi's communities respectively)
+- Quake speedrunning community
+- New Blood Interactive
+- David's Shack discord
+- Bully squad
 
 ## Installation of this map from Github (OLD JUST FOR DEV AND TESTING)
 

@@ -19,7 +19,7 @@ Co Author (music) :
 - Karl Casey / White Bat Audio. 
 - David Szymanski (DuskDev).
 
-The music of Karl Casey can be used in any project as long he is credited within the video and the music by David Szymanski has fully authorization to be used in any video... So enjoy all content creators and feel free to use the music in your videos!
+The music of Karl Casey can be used in any project as long he is credited within the video (in his words "Karl Casey @ White Bat Audio" and the music by David Szymanski has fully authorization to be used in any video... So enjoy all content creators and feel free to use the music in your videos!
 
  
 ## Requirements

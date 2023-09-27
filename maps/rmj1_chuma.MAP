@@ -26620,8 +26620,6 @@
 "_tb_name" "R1E1"
 "_tb_id" "161"
 "_tb_layer_sort_index" "10"
-"_tb_layer_locked" "1"
-"_tb_layer_hidden" "1"
 // brush 0
 {
 ( 304 -2608 -592 ) ( 368 -2672 -608 ) ( 304 -2608 -608 ) ROCK4_1 0 0 0 1 1
@@ -30913,7 +30911,7 @@
 // entity 1385
 {
 "classname" "monster_hell_knight"
-"origin" "2288 -1600 -577.5"
+"origin" "2308 -1600 -577.5"
 "angle" "270"
 "spawnflags" "1"
 "_tb_layer" "161"
@@ -30921,15 +30919,15 @@
 // entity 1386
 {
 "classname" "monster_hell_knight"
-"origin" "2256 -1600 -577.5"
+"origin" "2260 -1600 -577.5"
 "angle" "270"
-"spawnflags" "1025"
+"spawnflags" "769"
 "_tb_layer" "161"
 }
 // entity 1387
 {
 "classname" "monster_hell_knight"
-"origin" "2224 -1600 -577.5"
+"origin" "2216 -1600 -577.5"
 "angle" "270"
 "spawnflags" "1"
 "_tb_layer" "161"

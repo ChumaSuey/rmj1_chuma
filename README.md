@@ -1,25 +1,101 @@
-# rmj1_chuma map
+# RE:2m6 The Dismal Oubliette (General info)
 
-## Map instructions for Quake maps (by Chuma)
+### Author credits
 
-Usually i like to work with p2p and file sharing software so it can be easy to track all releases, changes, feedback and such... What do you need for running my Quake map?
+Map name : RE:2M6 The Dismal Oubliette.
 
-1. A sourceport ( i use Ironwail)
-2. Re Mobilized latest version (this map is being made for rm 1.1)
-3. Allocate these folders in the library.
+Author of the original map: John Romero
 
+Author of the original map: Chuma
 
-Map name : RE:2m6 The Dismal Oubliette.
+Co Author (mapping/design) : 
+- Forte.
+- Em3raldTig3r (also Re Mobilized creator).
+- bmFbr.
+- Spootnik.
+- Makkon (the sky texture)
 
-Author : John Romero
+Co Author (music) :
+- Karl Casey / White Bat Audio. 
+- David Szymanski (DuskDev).
 
-Co Author/ Remixer : Chuma
+The music of Karl Casey can be used in any project as long he is credited within the video (in his words "Karl Casey @ White Bat Audio") and the music by David Szymanski has fully authorization to be used in any video... So enjoy all content creators and feel free to use the music in your videos!
 
+ 
+## Requirements
 
+This map requires the mod Re Mobilized 1.1 mod for Quake.
 
-## Installation of this map from Github
+You can download the version of the jam as that would be the final and official, this one will be the source from my end or any micro patch.
 
-I'll focus on one thing only the manual download but Github have several ways for you to stay on par with the project remotely. (i won't go in detail on how to install the mod or Quake, this is a dev site of the map so yeah uwu, in any case i can point out how to)
+Just download the source file (go to code and Download as ZIP) and download all files into your rm1.1 folder (this even depends how the folder it's named on your end) so well, that's it.
+## The making of the maps and Facts
+
+### About the map (the making of)
+Re Mobilized is the mod i had the most fun making a map so far... the progs dump features and the mechanics of Re:Mob are the best you can get to at least play Quake's Edge/ Apex Quake / Quake Legends, you name it...well there you go.
+
+Per se my original idea was about to make a map about a Sci-Fi structure where you would end up climbing and get steps by steps up and finishing in a spaceship that would lead to a future Alkaline map, regardless this was a bit too much of a big idea... having played almost all Re:Mob maps, Spootnik's map of RE:1M8 gave me an idea... pick an already existing id1 map and make it Re:Mobilized , sounds cool right?
+
+I was between The Grisly Grotto and The Dismal Oubliette... i picked Dismal Oubliette or E2M8 due to the fact it was a very open map, add the cut entrance, and add to the fact i wanted to add some original sections, it was the perfect candidate for my idea.
+
+Since the beginning i started with the idea of adding to the map while keeping the best of it and making small changes... i used some Q2 textures since both games are now canon, perfectly enough!.
+
+And since the beginning i split in paper the sectors or areas with code names... this helped me up in the end since my computer couldn't handle the complete shown map and i took some time to split the layers.
+
+In the middle of the making of the map i added an iron lung easter egg, since as a small change i wanted all the water to be red/ blood water, Forte said : You know you could add a small submarine... at first i wanted to add an osciloscope but Forte insisted on making the whole Submarine, i asked him to do it since i was already busy with the core of the map, but i made the whole area... Forte is an exceptional mapmaker and friend, he is awesome and i give him credit for making the submarine, and along the way i asked David Szymanski (Duskdev) about the Submarine easter egg and if i could use an original track of Iron Lung, all of the answers were yes (at this time dm7sp was released, first Copper experiment).
+
+Towards the end i really grounded a bit my desires for the map, i had a lot of ideas i had to ground, remake and rethink, i had a small emotional slope (nothing to do with Quake Mapping or Quake ofc), i planned 3 entryways and a sky secret in the Dismal Oubliette core map, but the sky secret became the iron lung secret easter egg, and the 3 new areas were just direct puzzles to use the new custon key entity that i reduced to just 2.
+
+The elevator part was in regards the most affected by this "grounding" but it kinda went how it expected to be.
+
+Also the best toy was using delay -1 in the enemies to add some RNG, alongside Path_corners (some made by me and some others made by John himself), another favorite toy was the spawn of triggers or "is_waiting", really cool made me happy along the way!
+
+### Facts
+
+- This is the map i least used spawn triggers comparing it to my old previous maps, altho they are still used just in a Serious sam way.
+- Sunlight color is yellow and the fog is red, originally it was the other way around, but the sky didn't look well enough so i switched it.
+- Most of the original map and spawns is the way it is, since it's strong in combat and area, altho i added some monster encounters and original areas, obvious remark but important.
+- As of the previous point, it was a fun nod how the elevators in the second part of the oubliette worked because the other existed... i wouldn't have expected that!
+- I cleaned all the id1 trigger spawns and made it more directly as it has been done in mods recently, because there were small chances of them not activating and locking the player from getting 100% kills.
+- The map is mainly playtested and made for Nightmare but it can be completed in any difficulty!
+## Credits 
+
+Author of the original map: John Romero
+
+Author of this version of the map (canon author): Chuma
+
+Co Author (mapping/design) : 
+- Forte.
+- CommonCold
+- Em3raldTig3r (also Re Mobilized creator).
+- bmFbr.
+- Spootnik.
+- Makkon (the sky texture)
+- Inky
+
+Co Author (music) :
+- Karl Casey / White Bat Audio. 
+- David Szymanski (DuskDev).
+
+Special Thanks
+- Yuyi
+- Alunadrern
+- Dominus
+- Damaec
+- Dany
+- Nepta
+- Admer
+- Quake Mapping community (Slipseer and Quaddicted)
+- USDQC
+- Quake Champions community (special shout outs to Nyx's and Dezi's communities respectively)
+- Quake speedrunning community
+- New Blood Interactive
+- David's Shack discord
+- Bully squad
+
+## Installation of this map from Github (OLD JUST FOR DEV AND TESTING)
+
+I'll focus on one thing only the manual download but Github have several ways for you to remotely stay on par with the project remotely. (i won't go in detail on how to install the mod or Quake, this is a dev site of the map so yeah uwu, in any case i can point out how to)
 
 1. Click on the green button called "Code".
 2. Click on "Local" altho by default you would be there

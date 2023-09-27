@@ -60,6 +60,8 @@ Also the best toy was using delay -1 in the enemies to add some RNG, alongside P
 - The map is mainly playtested and made for Nightmare but it can be completed in any difficulty!
 - Due to the changemusic feature i wanted to split the map in micro-chapters but i discarded the idea, it seemed a bit far fetched.
 - Trigger_changemusic can be passed over and change the current track anytime, this never let anyone change the original track in any form... so i left in the spawn a trigger_changemusic, Forte suggested a some sort of music jukebox but i prefer to leave it like this.
+
+
 Composed fact: If you REALLY think about the tracks tell a story that encompasses the map (the White bat audio tracks): 
 -> "Infernal Sky" (the start track) you can see that Ranger is entering a "different" universe Oubliette, one of the first thing he perceives while looking right is the sky, that is red (the sky was left at the suggestion of my friend Aluna since it really fit).
 -> "Alien Crypt" (the track in the entrance) talks about how Ranger is yet to enter the dungeon but it's a crypt of some sort, not alien tho, just an Eldritch one.

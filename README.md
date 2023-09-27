@@ -4,9 +4,9 @@
 
 Map name : RE:2M6 The Dismal Oubliette.
 
-Author of the original map: John Romero
+Author of the original map (canon author): John Romero
 
-Author of the original map: Chuma
+Author of the map (the mapper): Chuma
 
 Co Author (mapping/design) : 
 - Forte.

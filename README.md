@@ -58,6 +58,19 @@ Also the best toy was using delay -1 in the enemies to add some RNG, alongside P
 - As of the previous point, it was a fun nod how the elevators in the second part of the oubliette worked because the other existed... i wouldn't have expected that!
 - I cleaned all the id1 trigger spawns and made it more directly as it has been done in mods recently, because there were small chances of them not activating and locking the player from getting 100% kills.
 - The map is mainly playtested and made for Nightmare but it can be completed in any difficulty!
+- Due to the changemusic feature i wanted to split the map in micro-chapters but i discarded the idea, it seemed a bit far fetched.
+- Trigger_changemusic can be passed over and change the current track anytime, this never let anyone change the original track in any form... so i left in the spawn a trigger_changemusic, Forte suggested a some sort of music jukebox but i prefer to leave it like this.
+Composed fact: If you REALLY think about the tracks tell a story that encompasses the map (the White bat audio tracks): 
+-> "Infernal Sky" (the start track) you can see that Ranger is entering a "different" universe Oubliette, one of the first thing he perceives while looking right is the sky, that is red (the sky was left at the suggestion of my friend Aluna since it really fit).
+-> "Alien Crypt" (the track in the entrance) talks about how Ranger is yet to enter the dungeon but it's a crypt of some sort, not alien tho, just an Eldritch one.
+-> "Lost in the matrix" (the track in the oubliette) basically Ranger is lost in this familiar but rather bit different dungeon, with the same objective, getting the rune.
+-> "Embers" (the final track before the ending) Ranger knows it's close to the Ember, the powerful Rune of black magic... So this is the final track that symbolizes how close he is to his objective.
+-> "Ghostlight" by David Szymanski speaks how Ranger is confused and it's seeing a Submarine in the middle of nowhere, in what it appears to a dimensional jump, provided with a powerful LG, someone helped our hero in the journey giving him the weapon a bit in advance (if he was fortunate to find it).
+
+The story of the map is just Ranger arrives to find The rune of black magic, somehow what he feels is an scenario he somehow recognizes it's different, but has a familiar feel (if it can be implied he has maybe saved Earth from Shub-Niggurath many times), as he gets deep into it he completes the deed knowing he got it and that other worlds await to be explored!
+
+- I didn't plan that to be the story that was me kinda having a theory since the track with the names fit... you can actually ignore it if you like, it's just me storywriting randomness heh.
+  
 ## Credits 
 
 Author of the original map: John Romero

@@ -1,4 +1,4 @@
-# RE:2m6 The Dismal Oubliette (General info)
+# RE:2M6 The Dismal Oubliette (General info)
 
 ### Author credits
 

@@ -63,11 +63,11 @@ Also the best toy was using delay -1 in the enemies to add some RNG, alongside P
 
 
 Composed fact: If you REALLY think about the tracks tell a story that encompasses the map (the White bat audio tracks): 
--> "Infernal Sky" (the start track) you can see that Ranger is entering a "different" universe Oubliette, one of the first thing he perceives while looking right is the sky, that is red (the sky was left at the suggestion of my friend Aluna since it really fit).
--> "Alien Crypt" (the track in the entrance) talks about how Ranger is yet to enter the dungeon but it's a crypt of some sort, not alien tho, just an Eldritch one.
--> "Lost in the matrix" (the track in the oubliette) basically Ranger is lost in this familiar but rather bit different dungeon, with the same objective, getting the rune.
--> "Embers" (the final track before the ending) Ranger knows it's close to the Ember, the powerful Rune of black magic... So this is the final track that symbolizes how close he is to his objective.
--> "Ghostlight" by David Szymanski speaks how Ranger is confused and it's seeing a Submarine in the middle of nowhere, in what it appears to a dimensional jump, provided with a powerful LG, someone helped our hero in the journey giving him the weapon a bit in advance (if he was fortunate to find it).
+- "Infernal Sky" (the start track) you can see that Ranger is entering a "different" universe Oubliette, one of the first thing he perceives while looking right is the sky, that is red (the sky was left at the suggestion of my friend Aluna since it really fit).
+- "Alien Crypt" (the track in the entrance) talks about how Ranger is yet to enter the dungeon but it's a crypt of some sort, not alien tho, just an Eldritch one.
+- "Lost in the matrix" (the track in the oubliette) basically Ranger is lost in this familiar but rather bit different dungeon, with the same objective, getting the rune.
+- "Embers" (the final track before the ending) Ranger knows it's close to the Ember, the powerful Rune of black magic... So this is the final track that symbolizes how close he is to his objective.
+- "Ghostlight" by David Szymanski speaks how Ranger is confused and it's seeing a Submarine in the middle of nowhere, in what it appears to a dimensional jump, provided with a powerful LG, someone helped our hero in the journey giving him the weapon a bit in advance (if he was fortunate to find it).
 
 The story of the map is just Ranger arrives to find The rune of black magic, somehow what he feels is an scenario he somehow recognizes it's different, but has a familiar feel (if it can be implied he has maybe saved Earth from Shub-Niggurath many times), as he gets deep into it he completes the deed knowing he got it and that other worlds await to be explored!
 
